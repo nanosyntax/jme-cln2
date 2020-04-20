@@ -4,9 +4,9 @@ Desktop application for Nanosyntax built with [Electron].
 
 ![](screenshot.png)
 
-## Download 
+## Installation 
 
-Here is where You can download our [latest release] for macOS, Windows and GNU/Linux.
+Just download our [latest release] for macOS, Windows and GNU/Linux.
 
 ## Development
 
@@ -72,7 +72,7 @@ Apache 2. Inherited from [Jitsi Meet Electron] See the [LICENSE] file.
 [Jitsi Meet]: https://github.com/jitsi/jitsi-meet
 [Jitsi Meet Electron]: https://github.com/jitsi/jitsi-meet-electron
 [Electron]: https://electronjs.org/
-[latest release]: https://github.com/jitsi/jitsi-meet-electron/releases/latest
+[latest release]: https://github.com/nanosyntax/nanocentral-electron/releases/latest
 [jitsi-meet-electron-utils]: https://github.com/jitsi/jitsi-meet-electron-utils
 [jitsi-meet-electron-utils README]: https://github.com/jitsi/jitsi-meet-electron-utils/blob/master/README.md
 [LICENSE]: LICENSE
