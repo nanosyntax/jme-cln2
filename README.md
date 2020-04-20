@@ -1,6 +1,6 @@
-# Jitsi Meet Electron
+# Nanocentral Desktop App 
 
-Desktop application for [Jitsi Meet] built with [Electron].
+Desktop application for Nanosyntax built with [Electron].
 
 ![](screenshot.png)
 
@@ -55,13 +55,6 @@ Here is an example using nginx:
 location /external_api.js {
     alias /usr/share/jitsi-meet/libs/external_api.min.js;
 }
-```
-
-The following additional HTTP header are known not work with the Electron App:
-
-```
-Content-Security-Policy "frame-ancestors 'none'";
-X-Frame-Options "DENY";
 ```
 
 ## Development
